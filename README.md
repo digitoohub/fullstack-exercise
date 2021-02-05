@@ -1,6 +1,6 @@
 # Scramblies challenge
 ## Task 1
-Complete the function `isScramble(str1 str2)` that returns true if a portion of `str1` characters can be rearranged
+Complete the function `isScramble(str1, str2)` that returns true if a portion of `str1` characters can be rearranged
  to match `str2`, otherwise returns `false`.
 
 Notes:
