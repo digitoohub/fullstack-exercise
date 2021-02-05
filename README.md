@@ -24,3 +24,8 @@ Create a UI with two inputs for strings and a scramble button. When the button i
 
 ## Notes
 Please pay attention to tests, code readability and error cases.
+
+Preferred technologies:
+- TypeScript
+- ReactJS
+- NodeJS
