@@ -1,14 +1,15 @@
 # Scramblies challenge
 ## Task 1
-Complete the function `isScramble(str1, str2)` that returns true if a portion of `str1` characters can be rearranged
+Complete the function `isScramble(str1, str2)` that returns `true` if a portion of `str1` characters can be rearranged
  to match `str2`, otherwise returns `false`.
 
-Notes:
+### Notes:
 
 Only lower case letters will be used (a-z). No punctuation or digits will be included.
 Performance needs to be considered
 
-Examples:
+### Examples:
+
 ```js
 isScramble('rekqodlw', 'world') // true
 isScramble('cedewaraaossoqqyt', 'codewars') // true
@@ -25,7 +26,7 @@ Create a UI with two inputs for strings and a scramble button. When the button i
 ## Notes
 Please pay attention to tests, code readability and error cases.
 
-Preferred technologies:
+### Preferred technologies:
 - TypeScript
 - ReactJS
 - NodeJS
