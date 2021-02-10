@@ -30,3 +30,6 @@ Please pay attention to tests, code readability and error cases.
 - TypeScript
 - ReactJS
 - NodeJS
+- Nest.js
+- GraphQL
+- Apollo
